@@ -26,6 +26,7 @@ class MyApp extends StatelessWidget {
               child: Text(
                 'Amasoh.A.Arnold',
                 style: TextStyle(
+                    fontFamily: 'DancingScript',
                     fontSize: 20.0,
                     color: Colors.white,
                     fontWeight: FontWeight.bold
